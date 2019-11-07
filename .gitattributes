@@ -1,4 +1,4 @@
 //将.h 和.m文件当作JavaScipt语言来统计
 *.h linguist-language=Objective-C
 *.m linguist-language=Objective-C
-*.swift linguist-language=Swift
+*.swift linguist-language=Objective-C
